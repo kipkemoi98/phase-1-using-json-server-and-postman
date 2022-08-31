@@ -1,0 +1,30 @@
+
+
+{
+    "students": [
+      {
+          "id": 1,
+          "regNo": 950,
+          "name": "gilii.",
+           "amountPaid": 600
+      }, {
+          "regNo": 1050,
+          "name": "manuu",
+           "amountPaid": 1200,
+           "id": 2
+  
+      }, {
+          "regNo": 1250,
+          "name": "clint",
+           "amountPaid": 1300,
+           "id": 3
+  
+      }, {
+          "regNo": 2590,
+          "name": "nick",
+           "amountPaid": 1500,
+           "id": 4
+  
+      }
+    ]
+  }
